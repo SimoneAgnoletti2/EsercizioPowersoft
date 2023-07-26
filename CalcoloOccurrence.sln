@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalcoloOccurrence", "CalcoloOccurrence\CalcoloOccurrence.csproj", "{EFE522E3-92F7-42BE-8362-962C4D329B03}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EFE522E3-92F7-42BE-8362-962C4D329B03}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EFE522E3-92F7-42BE-8362-962C4D329B03}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EFE522E3-92F7-42BE-8362-962C4D329B03}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EFE522E3-92F7-42BE-8362-962C4D329B03}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7DD9D11C-337A-490B-8548-BD085752C793}
+	EndGlobalSection
+EndGlobal
